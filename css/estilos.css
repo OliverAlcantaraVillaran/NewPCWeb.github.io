@@ -1,0 +1,40 @@
+*{
+	color:white;
+	font-family:Arial;
+	font-size: medium;
+}
+
+.contenedor {
+	width:100%;
+	height:auto;
+	margin:0 auto;
+	overflow:hidden;
+	
+}
+
+
+
+body {
+	background-image: url("http://newpcweb.es/dat/main.jpg");
+	
+}
+.header img{
+  width: 100%;
+  height: auto;
+ }
+ 
+h1 {
+  text-transform: uppercase;
+ }
+ 
+ h1 img{
+  width: 100%;
+  height: auto;
+  
+ }
+ 
+footer img{
+  width: 100%;
+  height: auto;
+ }
+ 
